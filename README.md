@@ -12,3 +12,4 @@ Structural Engineer tunred into Data Analyst. Experienced in python,SQL, Tableau
 * Database : MySQL, PostgreSQL
 * Visualization : Power Bi, Tableau
   
+https://github.com/codecrafters-io/build-your-own-x?tab=readme-ov-file
